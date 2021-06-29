@@ -1,5 +1,6 @@
 # Abstract Factory
-Abstract factory pattern will be extreamly easy to understand if you know Factory method. If you would like to know about factory method then visit this - https://youtu.be/tdMOdeewTnc
+Abstract factory pattern will be extreamly easy to understand if you know Factory method. If you would like to know about factory method then visit this - 
+Factory method: https://youtu.be/tdMOdeewTnc
 
 GoF defines it as 
 “Provide an interface for creating families of related or dependent objects without specifying their concrete classes.”
@@ -15,5 +16,6 @@ It means the Factory Method is used to create only one product  that is deals wi
 
 but Abstract Factory is about creating families of related or dependent products which means a single abstract factory can instantiate multiple sub classes
 
-For detailed explanation visit - https://youtu.be/HcxhrAqEukc
+For detailed explanation visit - 
+Abstract Factory: https://youtu.be/HcxhrAqEukc
 
